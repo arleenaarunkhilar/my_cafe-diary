@@ -1,6 +1,7 @@
 # ☕ Cafe Diary: A Digital Scrapbook
 
 An interactive web application for documenting my cafe experiences. This project uses a functional **Supabase** backend to ensure recommendations are persistent and shareable.
+[Link](https://arleenaarunkhilar.github.io/my_cafe-diary/)
 
 ## ✨ Features
 *   **Scrapbook Aesthetic:** Designed with tilted polaroid-style cards, washi tape effects, and handwritten typography.
